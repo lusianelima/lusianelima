@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lusiane Lima
 
-- 🌱 Estou fazendo curso tecnico de informática
+- 🌱 Graduanda em Ciência da Computação
 - 😄 Pronomes: ela/dela
 
 <div align="center">
