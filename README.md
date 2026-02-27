@@ -11,7 +11,7 @@ Aqui no GitHub, compartilho meus estudos, experimentos e projetos pessoais. ✨
 
 ### 🚀 O que estou aprendendo atualmente
 - Desenvolvimento web com **HTML, CSS e JavaScript**  
-- Programação em **C e Python**  
+- Programação em **C, Java, C# e Python**  
 - **Banco de Dados** com MySQL e MongoDB  
 - Fundamentos de **Linux e AWS Cloud**
 
@@ -45,14 +45,4 @@ Aqui no GitHub, compartilho meus estudos, experimentos e projetos pessoais. ✨
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lusianelima&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusianelima&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-> 💬 “A tecnologia é uma ferramenta poderosa — e eu quero fazer parte de quem usa ela pra melhorar o mundo.”  
-> — *Lusiane Lima*
 
